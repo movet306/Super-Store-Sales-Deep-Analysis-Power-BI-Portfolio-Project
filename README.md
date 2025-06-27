@@ -243,4 +243,11 @@ By prioritizing margin optimization, customer loyalty, return reduction, operati
 **Please click on 'View Raw' to display and download the Power BI document**
 
 Data Source: https://powerbidocs.com/tag/sample-superstore-sales-excel-xls/?ref=hackernoon.com 
+---
+## Project Owner
+
+**Mert Ovet**  
+[LinkedIn: linkedin.com/in/mertovet](https://www.linkedin.com/in/mertovet)
+
+---
 
