@@ -241,5 +241,6 @@ By prioritizing margin optimization, customer loyalty, return reduction, operati
  - [Super Store Interactive Dashboard (Power BI)]([https://github.com/movet306/Walmart-Sales-Analysis/blob/main/Walmart%20Sales%20Forecasting%20(1).ipynb](https://github.com/movet306/Super-Store-Sales-Deep-Analysis-Power-BI-Portfolio-Project/blob/main/SuperSales%20Deep%20Analysis.pbix))
 
 **Please click on 'View Raw' to display and download the Power BI document**
+
 Data Source: https://powerbidocs.com/tag/sample-superstore-sales-excel-xls/?ref=hackernoon.com 
 
