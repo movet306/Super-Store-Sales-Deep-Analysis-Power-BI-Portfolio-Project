@@ -141,6 +141,8 @@ Western Europe and Western Africa: Margins are notably lower, requiring investig
 
 ## 6. RETURNS & LOSS ANALYSIS
 
+![image](https://github.com/user-attachments/assets/d32d4c5e-f53a-490a-bdde-8e77742e677e)
+
 ### Key Insights & Analysis
 
 **1. Return Rate**
