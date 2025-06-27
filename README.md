@@ -161,7 +161,7 @@ Regional Variance: Certain regions and categories have much higher return rates,
 
 ## 7. OPERATIONAL ANALYSIS
 
-![image](https://github.com/user-attachments/assets/db6dd374-ce86-4fba-94d3-6fb48e87ac93)
+![image](https://github.com/user-attachments/assets/36a95a0d-1bbc-4fba-8d83-b813b9d25943)
 
 ## Key Insights & Analysis
 
