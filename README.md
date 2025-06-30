@@ -240,7 +240,7 @@ Based on the comprehensive analysis, **Super Store** should focus on the followi
 **Summary:**  
 By prioritizing margin optimization, customer loyalty, return reduction, operational agility, and market expansion, Super Store can turn analytics into sustainable business impact.
 
- - [SuperSales Deep Analysis_Mert_Ovet.pbix (Power BI)](https://github.com/kullaniciAdi/repoAdi/raw/main/SuperSales_Deep_Analysis_Mert_Ovet.pbix)
+ - [SuperSales Deep Analysis_Mert_Ovet.pbix (Power BI)](https://github.com/movet306/Super-Store-Sales-Deep-Analysis-Power-BI-Portfolio-Project/blob/main/Super%20Store%20Enterprise%20Performance%20Analytics-Power-BI-Portfolio-Project_Mert_Ovet.pbix)
 
 **Please click on 'View Raw' to display and download the Power BI document**
 
