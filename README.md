@@ -1,4 +1,4 @@
-# Super-Store-Sales-Deep-Analysis-Power-BI-Portfolio-Project
+# Super Store Enterprise Performance Analytics-Power-BI-Portfolio-Project
 
 ## Executive Summary
 This project delivers a comprehensive business intelligence solution for a global superstore’s sales, profitability, and operations. From raw data cleansing and advanced Power Query transformations to custom DAX measures, star-schema modeling, and highly actionable dashboard design, every step was engineered to support real-world executive decision-making and drive business outcomes.
